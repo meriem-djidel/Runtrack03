@@ -1,0 +1,12 @@
+
+
+body{
+    height: 4096px;
+    
+}
+footer{
+    width: auto;
+    height: 2%;
+    background-color: blue;
+    position : fixed;
+}
